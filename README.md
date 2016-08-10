@@ -26,7 +26,7 @@
 
 	array('manage_pages', 'publish_pages')
 
-manage_pages - Enables your app to retrieve Page Access Tokens for the Pages and Apps that the person administrates.
+<b>manage_pages</b> - Enables your app to retrieve Page Access Tokens for the Pages and Apps that the person administrates.
 
 publish_pages - When you also have the manage_pages permission, gives your app the ability to post, comment and like as any of the Pages managed by a person using your app.
 
