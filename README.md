@@ -34,5 +34,3 @@
 
 For more Facebbok API references go to: https://developers.facebook.com/docs/facebook-login/permissions
 
-
-###Developed by Lemuel John Paule (https://lemuelpaule.xyz)
